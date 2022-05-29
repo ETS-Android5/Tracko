@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="HyperTrackFaceServer">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="AzureFaceAPI.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/AzureFaceAPI/AzureFaceAPI">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="HyperTrackFaceJSON.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/HyperTrackFaceJSON/HyperTrackFaceJSON">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="HyperTrackFaceJPA.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/HyperTrackFaceJPA/HyperTrackFaceJPA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="HyperTrackFacePojo.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/HyperTrackFacePojo/HyperTrackFacePojo">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="HyperTrackFaceEJB.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/HyperTrackFaceEJB/HyperTrackFaceEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="HyperTrackFaceServer"/>
+                
+        <property name="java-output-path" value="/HyperTrackFaceServer/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
