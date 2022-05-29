@@ -13,7 +13,7 @@ Face Recognition technology is used in detecting a face from a digital image or 
 - Allow Location Tracking in Background
 - Ensure that the application is downloaded on both the users' devices i.e, the user tracking and the user being tracked.
 
-##Source code
+## Source code
 Frontend and Backened source codes are available in their respective folders in this repository.
 
 ## Architecture
