@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "372107038882",
+    "project_id": "hypertracktest-93613",
+    "storage_bucket": "hypertracktest-93613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372107038882:android:92f10daf6958b7b34507fb",
+        "android_client_info": {
+          "package_name": "com.hypertrack.quickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372107038882-17023igs8vkeehe1cgp1di3dfgi4qog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-aT2qbXBvNtilhFTOzXyinDa28eiSBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372107038882-17023igs8vkeehe1cgp1di3dfgi4qog0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372107038882:android:4a79ebae24d25a8b4507fb",
+        "android_client_info": {
+          "package_name": "com.kaavya.htface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372107038882-17023igs8vkeehe1cgp1di3dfgi4qog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-aT2qbXBvNtilhFTOzXyinDa28eiSBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372107038882-17023igs8vkeehe1cgp1di3dfgi4qog0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
